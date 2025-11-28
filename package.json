@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://ganeshmamidala.github.io/lab",
+  "homepage": "https://ganeshmamidala.github.io/lab/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
