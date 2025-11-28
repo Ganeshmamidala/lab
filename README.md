@@ -76,3 +76,7 @@ The production-ready files will be in the `dist/` directory.
 ## Browser Support
 
 Works on all modern browsers that support ES6+ and Local Storage API.
+
+## Live Demo
+
+Visit the live app: [https://ganeshmamidala.github.io/lab/](https://ganeshmamidala.github.io/lab/)
